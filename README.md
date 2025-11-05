@@ -19,8 +19,6 @@
 |   D   |    B, B    |    C, C  |
 |   E   |    D, C    |    E, C  |
 
----
-
 **Transition Representation:**  
 Each arrow is labeled as **Input / Output**
 
