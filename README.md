@@ -21,8 +21,6 @@
 
 ---
 
-## 🧮 1. Mealy Machine Diagram
-
 **Transition Representation:**  
 Each arrow is labeled as **Input / Output**
 
@@ -48,7 +46,7 @@ graph LR
 
 
 
-## 🧩 2. Converted Moore Machine
+##  2. Converted Moore Machine
 
 Each state now has a **single fixed output**.
 
