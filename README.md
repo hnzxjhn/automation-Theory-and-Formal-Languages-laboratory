@@ -9,7 +9,7 @@
 
 
 
-##  Given Transition Table
+## Given Transition Table
 
 | State | 0, Output | 1, Output |
 |:------|:-----------|:---------|
@@ -19,10 +19,12 @@
 |   D   |    B, B    |    C, C  |
 |   E   |    D, C    |    E, C  |
 
+## 🧮 1. Mealy Machine Diagram
+
 **Transition Representation:**  
 Each arrow is labeled as **Input / Output**
 
-```mermaid
+mermaid
 graph LR
     A((A))
     B((B))
@@ -44,7 +46,7 @@ graph LR
 
 
 
-##  2. Converted Moore Machine
+## 🧩 2. Converted Moore Machine
 
 Each state now has a **single fixed output**.
 
